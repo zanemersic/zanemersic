@@ -48,34 +48,16 @@
 
 ###
 
-<p align="left">I am Žan Emeršič<br><br>💻 I’m passionate about coding, problem-solving, and building projects that bridge the gap between software and the physical world.<br>🚀 My current focus spans from low-level embedded systems and computer vision to scalable full-stack web development.<br>📚 I'm constantly expanding my knowledge, whether I'm implementing complex algorithms, containerizing applications, or programming microcontrollers.<br>🔧 I love creating versatile projects that run efficiently anywhere from an Archcraft Linux daily driver and a high-performance custom rig to dedicated edge devices.<br>🌍 Open to collaboration on open-source tools, hardware integrations, and innovative software solutions.<br><br>⚡ Tech Stack & Interests<br>Languages: C, C++, C#, Python, TypeScript, Kotlin<br><br>Full Stack Web: MERN Stack (MongoDB, Express.js, React, Node.js)<br><br>Embedded Systems & Hardware: Raspberry Pi, Arduino, ESP32<br><br>Systems & DevOps: Linux, Docker<br><br>Libraries & Core Concepts: OpenCV, Algorithms, Object-Oriented Programming (OOP)</p>
+<p align="left">💻 I’m passionate about coding, problem-solving, and building projects that bridge the gap between software and the physical world.<br>🚀 My current focus spans from low-level embedded systems and computer vision to scalable full-stack web development.<br>📚 I'm constantly expanding my knowledge, whether I'm implementing complex algorithms, containerizing applications, or programming microcontrollers.<br>🔧 I love creating versatile projects that run efficiently anywhere from an Archcraft Linux daily driver and a high-performance custom rig to dedicated edge devices.<br>🌍 Open to collaboration on open-source tools, hardware integrations, and innovative software solutions.<br><br>⚡ Tech Stack & Interests<br>Languages: C, C++, C#, Python, TypeScript, Kotlin<br><br>Full Stack Web: MERN Stack (MongoDB, Express.js, React, Node.js)<br><br>Embedded Systems & Hardware: Raspberry Pi, Arduino, ESP32<br><br>Systems & DevOps: Linux, Docker<br><br>Libraries & Core Concepts: OpenCV, Algorithms, Object-Oriented Programming (OOP)</p>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zanemersic/zanemersic/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zanemersic/zanemersic/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zanemersic/zanemersic/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/zanemersic/zanemersic/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
 </div>
 
 ###
